@@ -1,0 +1,32 @@
+$color : white;
+
+.form-box{
+  width: 500px;
+  background: rgba(0, 0, 0, 0.8);
+  margin: 12% auto;
+  padding: 50px 0;
+  color : $color;
+  box-shadow: 5px 10px;
+}
+
+.input-box input{
+
+  width: 90%;
+  border: none;
+  outline: none;
+  background: transparent;
+  color : $color;
+}
+
+.Submit{
+  margin: 40px auto 20px;
+  width : 80%;
+  display: block;
+  padding: 10px;
+  cursor: pointer;
+  border: 1px solid #fff;
+  background: transparent;
+  font-size: 16px;
+  color: $color;
+
+}
